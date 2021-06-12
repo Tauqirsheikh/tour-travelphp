@@ -1,6 +1,5 @@
 <?php include './layout/header.php';?>
 
-<h1>Home</h1>
-
+<?php include './component/banner.php';?>
 
 <?php include './layout/footer.php';?>
