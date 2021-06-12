@@ -1,4 +1,8 @@
-<h1>footer</h1>
+<section>
+<div class="row">
+</div>
+</section>
+
 
 </body>
 
